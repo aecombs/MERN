@@ -1,2 +1,2 @@
 # MERN
-Practice using MERN
+Practice using MERN via a MERN stack tutorial.
